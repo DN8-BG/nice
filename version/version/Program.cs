@@ -8,7 +8,7 @@
             int number = int.Parse(Console.ReadLine());
             for (int i = 0; i < number+1; i++)
             {
-
+                Console.Write(i + " ");
             }
 
         }

@@ -1,0 +1,15 @@
+C:\Users\hallgato\Documents\test\version\version\bin\Debug\net8.0\version.exe
+C:\Users\hallgato\Documents\test\version\version\bin\Debug\net8.0\version.deps.json
+C:\Users\hallgato\Documents\test\version\version\bin\Debug\net8.0\version.runtimeconfig.json
+C:\Users\hallgato\Documents\test\version\version\bin\Debug\net8.0\version.dll
+C:\Users\hallgato\Documents\test\version\version\bin\Debug\net8.0\version.pdb
+C:\Users\hallgato\Documents\test\version\version\obj\Debug\net8.0\version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hallgato\Documents\test\version\version\obj\Debug\net8.0\version.AssemblyInfoInputs.cache
+C:\Users\hallgato\Documents\test\version\version\obj\Debug\net8.0\version.AssemblyInfo.cs
+C:\Users\hallgato\Documents\test\version\version\obj\Debug\net8.0\version.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Documents\test\version\version\obj\Debug\net8.0\version.sourcelink.json
+C:\Users\hallgato\Documents\test\version\version\obj\Debug\net8.0\version.dll
+C:\Users\hallgato\Documents\test\version\version\obj\Debug\net8.0\refint\version.dll
+C:\Users\hallgato\Documents\test\version\version\obj\Debug\net8.0\version.pdb
+C:\Users\hallgato\Documents\test\version\version\obj\Debug\net8.0\version.genruntimeconfig.cache
+C:\Users\hallgato\Documents\test\version\version\obj\Debug\net8.0\ref\version.dll
